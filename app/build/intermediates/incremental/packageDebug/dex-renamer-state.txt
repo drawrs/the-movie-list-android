@@ -1,0 +1,7 @@
+#Sun Oct 29 16:43:23 WIB 2017
+base.0=/home/khilman/Documents/basic21oct/BoxOffice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d020c547e2ef41ffcf96575a48f6b70f7476bfcc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khilman/Documents/basic21oct/BoxOffice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_230c08f7856d31aa0da9dd551cf1f2ae64d5c5dc/classes.dex
+base.1=/home/khilman/Documents/basic21oct/BoxOffice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_230c08f7856d31aa0da9dd551cf1f2ae64d5c5dc
+file.0=/home/khilman/Documents/basic21oct/BoxOffice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d020c547e2ef41ffcf96575a48f6b70f7476bfcc/classes.dex
