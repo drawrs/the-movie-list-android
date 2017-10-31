@@ -18,7 +18,7 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
 
-
+    //variabel
     RecyclerView recyclerView;
     RecyclerView.LayoutManager layoutManager;
     @Override
